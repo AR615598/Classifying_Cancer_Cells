@@ -10,7 +10,7 @@
 <h2>Dependencies:</h2>
 <ul>
     <li>Python 3.7 or higher</li>
-    <li>Pycharm library</li>
+    <li>PyTorch library</li>
     <li>Pandas library</li>
     <li>Numpy library</li>
     <li>MatPlotLib library</li>
