@@ -1,5 +1,5 @@
 <h1>Classifying Cancer Cells as Benign or Malignant: An Algorithmic Approach</h1>
-<h4>By. Alexander Ramirez</h4>
+<h4>By. Alexander Ramirez, i dont know yalls name so please add it urself</h4>
 <b>Dataset: <a href="https://www.kaggle.com/datasets/erdemtaha/cancer-data">Cancer Data</a></b>
 
 <h2>Project Description:</h2>
