@@ -10,11 +10,11 @@
 <h2>Dependencies:</h2>
 <ul>
     <li>Python 3.7 or higher</li>
-    <li>PyTorch library</li>
-    <li>Pandas library</li>
-    <li>Numpy library</li>
-    <li>MatPlotLib library</li>
-    <li>Seaborn library</li>
-    <li>Keras library</li>
-    <li>TensorFlow library</li>    
+    <li>PyTorch </li>
+    <li>Pandas </li>
+    <li>Numpy </li>
+    <li>MatPlotLib </li>
+    <li>Seaborn </li>
+    <li>Keras </li>
+    <li>TensorFlow </li>    
 </ul>
